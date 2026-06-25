@@ -2,9 +2,9 @@
 
 # Olá, eu sou Nicolas Macedo de Brito
 
-**Desenvolvedor Full-Stack em formação | Estudante de Sistemas de Informação**
+**Estudante de Sistemas de Informação | Desenvolvimento, Cloud, Dados, Segurança e Automação**
 
-Construindo aplicações web, APIs REST, automações e sistemas completos com foco em front-end, back-end, banco de dados e IA aplicada.
+Construindo projetos com foco em aplicações web, APIs REST, banco de dados, automações, deploy, infraestrutura, cloud e IA aplicada.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolas%20Macedo%20de%20Brito-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-macedo-de-brito-8a3102322/)
 [![GitHub](https://img.shields.io/badge/GitHub-NinicolasGTH-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NinicolasGTH)
@@ -15,11 +15,13 @@ Construindo aplicações web, APIs REST, automações e sistemas completos com f
 
 ## Sobre mim
 
-Sou estudante de **Sistemas de Informação** e desenvolvedor full-stack em formação, com experiência prática em aplicações web, APIs REST, autenticação, banco de dados, automações e deploy.
+Sou estudante de **Sistemas de Informação** e profissional de tecnologia em formação, com base prática em desenvolvimento full-stack, APIs REST, banco de dados, automações, deploy e integração de sistemas.
 
-Tenho desenvolvido projetos completos utilizando **React, Next.js, Node.js, Python, FastAPI, MongoDB, SQL, JWT, Swagger, Docker, Render e Vercel**. Gosto de entender regras de negócio, estruturar soluções e transformar ideias em aplicações funcionais e apresentáveis.
+Tenho experiência com **React, Next.js, Node.js, Python, FastAPI, MongoDB, SQL, JWT, Swagger, Docker, Render e Vercel**, além de conhecimentos iniciais em **cloud com AWS**, **IA generativa com Amazon Bedrock**, fundamentos de **DevOps**, infraestrutura, cibersegurança, dados e automação.
 
-Atualmente busco oportunidades como **Desenvolvedor Júnior** ou **Estagiário**, principalmente em desenvolvimento web, back-end, front-end, APIs e projetos com IA aplicada.
+Gosto de entender problemas, estruturar soluções e construir projetos funcionais, seja no desenvolvimento de aplicações, automação de processos, análise de dados, sustentação de ambientes ou integração entre sistemas.
+
+Atualmente busco oportunidades como **Estagiário ou Júnior**, com abertura para atuar em **desenvolvimento de software, DevOps, cloud, infraestrutura, suporte técnico, cibersegurança, dados ou automação**.
 
 ---
 
@@ -36,6 +38,7 @@ Atualmente busco oportunidades como **Desenvolvedor Júnior** ou **Estagiário**
 
 ![Python](https://img.shields.io/badge/Python-244C6A?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![FastAPI](https://img.shields.io/badge/FastAPI-00897B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-222222?style=for-the-badge&logo=flask&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=csharp&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
@@ -47,8 +50,31 @@ Atualmente busco oportunidades como **Desenvolvedor Júnior** ou **Estagiário**
 ![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-6BA539?style=for-the-badge&logo=swagger&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-D94C32?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-4351E8?style=for-the-badge&logo=render&logoColor=white)
+
+</div>
+
+---
+
+## Áreas de interesse
+
+<div align="center">
+
+![Desenvolvimento Web](https://img.shields.io/badge/Desenvolvimento%20Web-0F172A?style=for-the-badge)
+![Back-end](https://img.shields.io/badge/Back--end-1E293B?style=for-the-badge)
+![Front-end](https://img.shields.io/badge/Front--end-334155?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/DevOps-2563EB?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-0369A1?style=for-the-badge)
+![Infraestrutura](https://img.shields.io/badge/Infraestrutura-475569?style=for-the-badge)
+![Cibersegurança](https://img.shields.io/badge/Cibersegurança-7F1D1D?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-14532D?style=for-the-badge)
+![Automação](https://img.shields.io/badge/Automação-713F12?style=for-the-badge)
+![IA Aplicada](https://img.shields.io/badge/IA%20Aplicada-581C87?style=for-the-badge)
 
 </div>
 
@@ -69,7 +95,8 @@ Principais funcionalidades:
 - cartão de crédito, compras e faturas;
 - empréstimos e investimentos;
 - API documentada com Swagger;
-- deploy com Render e Vercel.
+- deploy com Render e Vercel;
+- versão mobile Android via WebView.
 
 Repositórios:
 
@@ -119,10 +146,13 @@ Repositórios:
 - Sistemas de Informação
 - Desenvolvimento full-stack
 - APIs REST e autenticação JWT
-- Arquitetura de aplicações web
-- MongoDB, SQL e modelagem de dados
-- IA generativa aplicada a produtos
-- Deploy, documentação e boas práticas
+- Banco de dados SQL e NoSQL
+- Docker, deploy e fundamentos de DevOps
+- Cloud com AWS
+- IA generativa com Amazon Bedrock
+- Infraestrutura e sustentação de ambientes
+- Cibersegurança e boas práticas de proteção
+- Análise de dados e IA aplicada
 
 ---
 
@@ -135,6 +165,6 @@ Repositórios:
 
 <div align="center">
 
-**Aberto a oportunidades como Desenvolvedor Júnior ou Estagiário em tecnologia.**
+**Aberto a oportunidades como Estagiário ou Júnior em Desenvolvimento, DevOps, Cloud, Infraestrutura, Dados, Cibersegurança, Suporte Técnico e Automação.**
 
 </div>
