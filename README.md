@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Nicolas Macedo de Brito
+# Olá, eu sou o Nicolas Macedo de Brito
 
 **Estudante de Sistemas de Informação | Desenvolvimento, Cloud, Dados, Segurança e Automação**
 
@@ -24,6 +24,9 @@ Gosto de entender problemas, estruturar soluções e construir projetos funciona
 Atualmente busco oportunidades como **Estagiário ou Júnior**, com abertura para atuar em **desenvolvimento de software, DevOps, cloud, infraestrutura, suporte técnico, cibersegurança, dados ou automação**.
 
 ---
+
+🌐 Portfolio: [PT-BR](https://ninicolasgth.github.io/nicolas-portfolio-pt/) | [EN](https://ninicolasgth.github.io/NinicolasGTH.github.io/)
+
 
 ## Tecnologias e Ferramentas
 
